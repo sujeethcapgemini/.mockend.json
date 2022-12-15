@@ -42,5 +42,15 @@
          "firstName":"Steve Smith",
          "age":33
       }
+   ],
+     "company":[
+      {
+         "id":"1",
+         "name":"apple",
+      },
+      {
+         "id":"2",
+         "name":"google",
+      }
    ]
 }
