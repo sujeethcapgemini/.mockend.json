@@ -46,11 +46,11 @@
      "company":[
       {
          "id":"1",
-         "description":"apple",
+         "name":"apple",
       },
       {
          "id":"2",
-         "description":"google",
+         "name":"google",
       }
    ]
 }
