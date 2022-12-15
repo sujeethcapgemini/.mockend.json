@@ -43,14 +43,14 @@
          "age":33
       }
    ],
-     "company":[
+   "company":[
       {
          "id":"1",
-         "name":"apple",
+         "name":"apple"
       },
       {
          "id":"2",
-         "name":"google",
+         "name":"google"
       }
    ]
 }
