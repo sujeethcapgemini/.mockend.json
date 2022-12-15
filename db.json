@@ -36,13 +36,13 @@
          "id":"23",
          "firstName":"Bill Gates",
          "age":30,
-         "companyId":"1"
+        
       },
       {
          "id":"47",
          "firstName":"Steve Smith",
          "age":33,
-         "companyId":"2"
+         
       }
    ],
    "company":[
