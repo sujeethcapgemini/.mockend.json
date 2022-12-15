@@ -32,7 +32,15 @@
     "name": "Profile 1"
   },
   "users" : [
-    {"id" : "23","firstName":"sujeeth", "age" :30},
-    {"id" : "47","firstName":"menon", "age" :33}
+    {
+      "id" : "23",
+      "firstName":"sujeeth", 
+      "age" :30
+    },
+    {
+      "id" : "47",
+      "firstName":"menon",
+      "age" :33,
+    }
 ],
 }
