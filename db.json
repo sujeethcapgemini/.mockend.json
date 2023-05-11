@@ -1,58 +1,93 @@
 {
-   "posts":[
-      {
-         "id":1,
-         "title":"Post 1",
-         "description":"this is description 1"
-      },
-      {
-         "id":2,
-         "title":"Post 2",
-         "description":"this is description 2"
-      },
-      {
-         "id":3,
-         "title":"Post 3",
-         "description":"this is description 3"
-      }
-   ],
-   "comments":[
-      {
-         "id":1,
-         "body":"comment 1",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"comment 2",
-         "postId":1
-      }
-   ],
-   "profile":{
-      "name":"Profile 1"
-   },
-   "users":[
-      {
-         "id":"23",
-         "firstName":"Bill Gates",
-         "age":30,
-          "companyId":"1"
-      },
-      {
-         "id":"47",
-         "firstName":"Steve Smith",
-         "age":33,
-          "companyId":"2"
-      }
-   ],
-   "company":[
-      {
-         "id":"1",
-         "name":"apple"
-      },
-      {
-         "id":"2",
-         "name":"google"
-      }
-   ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    },
+    {
+      "id": 4,
+      "title": "Passed the exam!!",
+      "description": "Finnally passed the exam and blessed to be"
+    },
+    {
+      "id": 5,
+      "title": "Excited to travel",
+      "description": "Finally going to the most awaited place and happy to be"
+    },
+    {
+      "id": 6,
+      "title": "Hello everyone",
+      "description": "Good morning, hows everyone doing today?"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "happy journey",
+      "postId": 5
+    },
+    {
+      "id": 4,
+      "body": "Good morning, doing well!",
+      "postId": 6
+    },
+    {
+      "id": 5,
+      "body": "GM",
+      "postId": 6
+    },
+    {
+      "id": 6,
+      "body": "Congrats",
+      "postId": 4
+    }
+  ],
+  "profile": {
+    "name": "Profile 1"
+  },
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Bill Gates",
+      "age": 30,
+      "companyId": "1"
+    },
+    {
+      "id": "47",
+      "firstName": "Steve Smith",
+      "age": 33,
+      "companyId": "2"
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "name": "apple"
+    },
+    {
+      "id": "2",
+      "name": "google"
+    }
+  ]
 }
